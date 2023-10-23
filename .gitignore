@@ -1,0 +1,44 @@
+# Dependencias
+/node_modules
+
+# Archivos de construcción
+/build
+/dist
+/coverage
+
+# Variables de entorno
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos de registro y caché
+/npm-debug.log
+/yarn-error.log
+/yarn-debug.log
+/pnpm-debug.log
+/pnp-lock.yaml
+/*.pnp.js
+.pnp.js
+
+# IDE/Editor
+.idea
+.vscode
+.DS_Store
+
+# Archivos temporales
+.cache
+.eslintcache
+.parcel-cache
+/temp
+
+# Personalización del sistema
+.npmrc
+.yarnrc
+.yarnrc.yml
+.npmignore
+
+# Logs
+/logs
+/log
+/logs/*
